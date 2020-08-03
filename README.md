@@ -1,4 +1,4 @@
-### Hi there 👋
+### 😀 Fun fact: I am a fool.
 
 <!--
 **aiivy782/aiivy782** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
