@@ -10,6 +10,10 @@ Telegram: <a href="https://t.me/ai_ivy">`@ai_ivy`</a>
 
 <img src="https://img.shields.io/badge/-Python-blue?style=flat-square" /> <img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square" /> <img src="https://img.shields.io/badge/-C++-9cf?style=flat-square" /> <img src="https://img.shields.io/badge/-Ruby-red?style=flat-square" />
 
+### What do I know?
+
+<img src="https://img.shields.io/badge/-HTML-orange?style=flat-square" /> <img src="https://img.shields.io/badge/-CSS-blue?style=flat-square" /> <img src="https://img.shields.io/badge/-Bash Script-gray?style=flat-square" />
+
 ### Donate 🍩
 
 QIWI: <a href="https://qiwi.com/p/79216205919">`*click*`</a>
