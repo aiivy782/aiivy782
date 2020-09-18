@@ -1,5 +1,22 @@
-# Hello. Am I really interested in you?
-## (≧◡≦)
+### Hello 👋
+I am Yegor. I am Android, Bash and Web developer. Um, aspiring developer.
+
+### My contacts 📞
+E-Mail: <a href="mailto:aiivy782@gmail.com">`aiivy782@gmail.com`</a>
+
+Telegram: <a href="https://t.me/ai_ivy">`@ai_ivy`</a>
+
+### What am I studying? 👨‍💻
+
+<img src="https://img.shields.io/badge/-Python-blue?style=flat-square" /> <img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square" /> <img src="https://img.shields.io/badge/-C++-9cf?style=flat-square" /> <img src="https://img.shields.io/badge/-Ruby-red?style=flat-square" />
+
+### Donate 🍩
+
+QIWI: <a href="https://qiwi.com/p/79216205919">`*click*`</a>
+
+Yandex.Money: <a href="https://money.yandex.ru/to/410018066862883">`*click*`</a>
+
+**I would be grateful for any amount.**
 <!--
 **aiivy782/aiivy782** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
