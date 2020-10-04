@@ -16,6 +16,8 @@ Telegram: <a href="https://t.me/ai_ivy">`@ai_ivy`</a>
 
 ### Donate 🍩
 
+Ko-fi: <a href="https://ko-fi.com/B0B025VAD">*click*</a>
+
 QIWI: <a href="https://qiwi.com/p/79216205919">`*click*`</a>
 
 Yandex.Money: <a href="https://money.yandex.ru/to/410018066862883">`*click*`</a>
