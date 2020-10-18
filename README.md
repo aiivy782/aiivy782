@@ -23,6 +23,10 @@ QIWI: <a href="https://qiwi.com/p/79216205919">`*click*`</a>
 Yandex.Money: <a href="https://money.yandex.ru/to/410018066862883">`*click*`</a>
 
 **I would be grateful for any amount.**
+
+### My stats 📊
+
+<img src="https://github-readme-stats.vercel.app/api?username=aiivy782&show_icons=true&count_private=true">
 <!--
 **aiivy782/aiivy782** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
