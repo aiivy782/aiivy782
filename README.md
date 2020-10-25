@@ -8,11 +8,11 @@ Telegram: <a href="https://t.me/ai_ivy">`@ai_ivy`</a>
 
 ### What am I studying? 👨‍💻
 
-<img src="https://img.shields.io/badge/-Python-366b96?style=flat-square" /> <img src="https://img.shields.io/badge/-JavaScript-f7df1d?style=flat-square" /> <img src="https://img.shields.io/badge/-C-0080cd?style=flat-square" /> <img src="https://img.shields.io/badge/-Ruby-ed1b24?style=flat-square" />
+<img src="https://img.shields.io/badge/-JavaScript-f7df1d?style=flat-square" /> <img src="https://img.shields.io/badge/-C-0080cd?style=flat-square" /> <img src="https://img.shields.io/badge/-Ruby-ed1b24?style=flat-square" />
 
 ### What do I know?
 
-<img src="https://img.shields.io/badge/-HTML-F16528?style=flat-square" /> <img src="https://img.shields.io/badge/-CSS-2A65F1?style=flat-square" /> <img src="https://img.shields.io/badge/-Bash Script-293036?style=flat-square" />
+<img src="https://img.shields.io/badge/-Python-366b96?style=flat-square" /> <img src="https://img.shields.io/badge/-HTML-F16528?style=flat-square" /> <img src="https://img.shields.io/badge/-CSS-2A65F1?style=flat-square" /> <img src="https://img.shields.io/badge/-Bash Script-293036?style=flat-square" />
 
 ### Donate 🍩
 
