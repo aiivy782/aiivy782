@@ -1,5 +1,5 @@
 ### Hello 👋
-I am Yegor. I am Android, Bash and Web developer. Um, aspiring developer.
+I am Yegor. I am Android, Bash, Python and Web developer.
 
 ### My contacts 📞
 E-Mail: <a href="mailto:aiivy782@gmail.com">`aiivy782@gmail.com`</a>
