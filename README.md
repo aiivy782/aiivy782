@@ -22,7 +22,7 @@ ETH wallet: ```0x8d963eBB15C5D68139c410CD2CBDdc92e7ED2eDE```
 
 Ko-fi: <a href="https://ko-fi.com/B0B025VAD">`*click*`</a>
 
-QIWI: <a href="https://qiwi.com/p/79216205919">`*click*`</a>
+QIWI: <a href="https://qiwi.com/n/FRYGUY">`*click*`</a>
 
 Yandex.Money: <a href="https://money.yandex.ru/to/410018066862883">`*click*`</a>
 
