@@ -12,7 +12,7 @@ Telegram: <a href="https://t.me/ai_ivy">`@ai_ivy`</a>
 
 ### What do I know?
 
-<img src="https://img.shields.io/badge/-Python-366b96?style=flat-square" /> <img src="https://img.shields.io/badge/-HTML-F16528?style=flat-square" /> <img src="https://img.shields.io/badge/-CSS-2A65F1?style=flat-square" /> <img src="https://img.shields.io/badge/-Bash Script-293036?style=flat-square" />
+<img src="https://img.shields.io/badge/-Python-366b96?style=flat-square" /> <img src="https://img.shields.io/badge/-HTML-F16528?style=flat-square" /> <img src="https://img.shields.io/badge/-CSS-2A65F1?style=flat-square" /> <img src="https://img.shields.io/badge/-Bash Script-293036?style=flat-square" /> <img src="https://img.shields.io/badge/-C Sharp-8A2BE2?style=flat-square" />
 
 ### Donate 🍩
 
