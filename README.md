@@ -20,7 +20,7 @@ BTC wallet: ```1HPZxoXwsYYDzgKnnr9ab7dgtgr7vT9uzS```
 
 ETH wallet: ```0x8d963eBB15C5D68139c410CD2CBDdc92e7ED2eDE```
 
-LiberaPay: <a href="https://liberapay.com/AIIVY/">*click*</a>
+LiberaPay: <a href="https://liberapay.com/AIIVY/">`*click*`</a>
 
 Yandex.Money: <a href="https://money.yandex.ru/to/410018066862883">`*click*`</a>
 
