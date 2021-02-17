@@ -16,11 +16,7 @@ Telegram: <a href="https://t.me/ai_ivy">`@ai_ivy`</a>
 
 ### Donate 🍩
 
-BTC wallet: ```1HPZxoXwsYYDzgKnnr9ab7dgtgr7vT9uzS```
-
-ETH wallet: ```0x8d963eBB15C5D68139c410CD2CBDdc92e7ED2eDE```
-
-LiberaPay: <a href="https://liberapay.com/AIIVY/">`*click*`</a>
+LiberaPay: <a href="https://liberapay.com/AIIVY/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
 
 Yandex.Money: <a href="https://money.yandex.ru/to/410018066862883">`*click*`</a>
 
